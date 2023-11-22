@@ -1,11 +1,11 @@
 // Definieer de aansluitingen voor de eerste stappenmotor
-#define STEP_PIN_MOTOR1 4
-#define DIR_PIN_MOTOR1 5
-#define DANS_PIN 7
+#define STEP_PIN_MOTOR1 5
+#define DIR_PIN_MOTOR1 6
+
 
 // Definieer de aansluitingen voor de tweede stappenmotor
-#define STEP_PIN_MOTOR2 2
-#define DIR_PIN_MOTOR2 3
+#define STEP_PIN_MOTOR2 8
+#define DIR_PIN_MOTOR2 9
 
 
 const int stepsPerRevolution = 200;

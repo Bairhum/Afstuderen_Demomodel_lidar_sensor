@@ -2,7 +2,7 @@
   Turns an LED on for one second, then off for one second, repeatedly.
 */
 
-const int ledPin = 6;       // LED
+const int ledPin = 11;       // LED
 
 // the setup function runs once when you press reset or power the board
 
